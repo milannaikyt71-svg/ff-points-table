@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial FF Points App"
+git branch -M main
+git remote add origin https://github.com/milannaikyt71-svg/ff-points-table.git
+git push -u origin main
